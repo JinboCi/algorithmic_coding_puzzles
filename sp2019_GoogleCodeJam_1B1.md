@@ -1,3 +1,7 @@
+Manhattan Crepe Cart
+
+Encrypted from https://codingcompetitions.withgoogle.com/codejam/round/0000000000051706/000000000012295c
+
 Problem
 There are a lot of great streetside food vendors in Manhattan, but without a doubt, the one with the tastiest food is the Code Jam Crepe Cart!
 
